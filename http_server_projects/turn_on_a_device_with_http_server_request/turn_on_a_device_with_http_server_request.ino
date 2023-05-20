@@ -9,8 +9,8 @@
 ESP8266WebServer server(80);
 
 // WiFi CREDENTIALS
-const char *ssid = "Lantern.inc";
-const char *password = "8sq655@friday";
+const char *ssid = "TP-Link_B052";
+const char *password = "23893986";
 
 
 //server function
